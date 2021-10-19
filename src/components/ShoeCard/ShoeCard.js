@@ -81,6 +81,7 @@ const VariantLabel = styled.span`
   z-index: 1;
   padding: 5px 10px;
   font-size: 0.85rem;
+  border-radius: 2px;
   
   ${p => {
     switch (p.variant) {
